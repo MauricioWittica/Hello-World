@@ -6,4 +6,4 @@ Iniciando com GitHub
 
 
 # Ano 2023, Depois de 5 anos voltei!
-Aqui mas agora creio que seja definitivo, eu sou um desenvolvedor!
+Depois de 5 anos voltei aqui, mas agora creio que seja definitivo, eu sou um desenvolvedor!
